@@ -1,0 +1,9 @@
+[submodule "orchis"]
+	path = orchis
+	url = git@github.com:mrdalrymple/orchis.git
+[submodule "orchis.example"]
+	path = orchis.example
+	url = git@github.com:mrdalrymple/orchis.example.git
+[submodule "orchis.example.helloworld"]
+	path = orchis.example.helloworld
+	url = git@github.com:mrdalrymple/orchis.example.helloworld.git
